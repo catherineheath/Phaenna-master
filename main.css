@@ -1,0 +1,93 @@
+body { 
+  padding-top: 70px; 
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+p {
+  color: #FFFFFF;
+}
+
+h1 { 
+  padding-top: 100px; 
+  font-size: 100px;
+  font-weight: bold;
+  color: #FFFFFF;
+  text-transform: uppercase;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   
+}
+
+small {
+
+}
+
+
+.nav {
+    float: left;
+    min-width: 600px;
+}
+
+.nav-link {
+    display: block;
+    width: 150px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #FFFFFF;
+    background-color: black;
+    text-align: center;
+    padding: -20px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+-->
+
+.jumbotron {
+  min-height: 400px;
+  background-image: url('stars.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+.intro-body {
+  position: relative;
+  width: 600px;
+  height: 100px;
+  padding: 20px 10px 10px 10px;
+  color: #FFFFFF;
+}
+
+.intro-text {
+  font-size: 30px;
+  color: #FFFFFF;
+
+  }
+
+  .slideshow-link {
+    font-size: 30px;
+    font-weight: bold;
+    color: #1E90FF;
+  }
+  
+  .contact {
+	  padding: 10px
+  }
+
+  #body {
+    padding: -10px;
+  }
+
+.white {
+  color: #FFFFFF;
+  text-transform: uppercase;
+}
